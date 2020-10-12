@@ -15,12 +15,12 @@ REST API and Database Handler for VMware Radar.
 **1. Clone the application**
 
 ```bash
-git clone https://gitlab.eng.vmware.com/radar/radar-backend.git
+git clone https://github.com/Cryptonex7/--template-MySpringBootApp.git
 ```
 
 **2. Create MySQL database**
 ```bash
-create database apiperformance
+create database test_db
 ```
 
 **3. Change MySQL username and password as per your installation**
