@@ -1,4 +1,4 @@
-# Radar Server
+# MySpringBoot Server
 
 REST API and Database Handler for VMware Radar. 
 
