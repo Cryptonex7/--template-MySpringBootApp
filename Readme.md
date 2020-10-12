@@ -1,6 +1,6 @@
 # MySpringBoot Server
 
-REST API and Database Handler for VMware Radar. 
+REST API and Database Handler for MySpringBoot App. 
 
 ## Tech Stack
 
